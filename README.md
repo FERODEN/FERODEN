@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Roman 👋
 
-<!--
-**FERODEN/FERODEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>🧑‍🎓 Computer Science Student of Vizja University in Warsaw
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Right now I'm working on becoming a full-stack developer. I'm also always opened for internships!<br> This profile represents my progress throughout my work and studying process, it forms my portfolio.**
+____
+
+<br>
+
+## 💻 Operating system:
+
+![apple](https://www.readmecodegen.com/api/social-icon?name=apple&size=40&color=%23d6d6d6)
+
+<br>
+
+## ⌨️ Tech Stack:
+
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=40)
+![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=40)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=40)
+
+<br>
+
+## 🖥️ Planning to learn/learning now:
+
+![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=40)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=40)
+![react](https://www.readmecodegen.com/api/social-icon?name=react&size=40)
+![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=40)
+
+<br>
+
+____
+
+## 🌐 Socials:
+
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Froman-fedukovich-99a5183aa%2F)](https://www.linkedin.com/in/roman-fedukovich-99a5183aa/)
