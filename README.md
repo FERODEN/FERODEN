@@ -26,7 +26,7 @@ ____
 ## 🖥️ Planning to learn/learning now:
 
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=40)
-![python](https://www.readmecodegen.com/api/social-icon?name=python&size=40)
+![java](https://www.readmecodegen.com/api/social-icon?name=java&size=40&color=%23f59e0b)
 ![react](https://www.readmecodegen.com/api/social-icon?name=react&size=40)
 ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=40)
 
