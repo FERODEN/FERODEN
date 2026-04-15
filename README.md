@@ -4,7 +4,7 @@
 
 <br>
 
-**Right now I'm working on becoming a full-stack developer. I'm also always opened for internships!<br> This profile represents my progress throughout my work and studying process, it forms my portfolio.**
+**I'm always opened for internships!<br> This profile represents my progress throughout my work and studying process, it also forms my portfolio.**
 ____
 
 <br>
@@ -20,6 +20,7 @@ ____
 ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=40)
 ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=40)
 ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=40)
+![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=40)
 
 <br>
 
@@ -28,6 +29,8 @@ ____
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=40)
 ![java](https://www.readmecodegen.com/api/social-icon?name=java&size=40&color=%23f59e0b)
 ![react](https://www.readmecodegen.com/api/social-icon?name=react&size=40)
+![springboot](https://www.readmecodegen.com/api/social-icon?name=springboot&size=40)
+![angular](https://www.readmecodegen.com/api/social-icon?name=angular&size=40)
 ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=40)
 
 <br>
